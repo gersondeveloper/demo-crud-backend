@@ -16,7 +16,7 @@ public class UserService {
 
     private final UserRepository userRepository;
 
-    public Page<User> findAll(Pageable pageable) {
-        return userRepository.findAll(pageable);
+    public Page<User> getPaginatedUsers(Pageable pageable) {
+        return userRepository.findAllWithPagination(pageable);
     }
 }
