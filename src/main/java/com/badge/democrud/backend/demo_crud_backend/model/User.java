@@ -16,8 +16,10 @@ public class User {
     private String balance;
     private String company;
     private String email;
+    @Column(name = "eye_color")
     private String eyeColor;
     private String gender;
+    @Column(name = "is_active")
     private Boolean isActive;
     private Double latitude;
     private Double longitude;

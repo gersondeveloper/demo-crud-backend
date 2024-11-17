@@ -1,4 +1,4 @@
-id,isActive,balance,picture,age,eyeColor,name,gender,company,email,phone,address,about,registered,latitude,longitude
+id,is_active,balance,picture,age,eye_color,name,gender,company,email,phone,address,about,registered,latitude,longitude
 1,true,191.43,http://zoom.us/one,32,violet,Derek Alvarez,male,Cum Sociis Natoque Industries,luctus.lobortis.class@hotmail.ca,1-714-548-6217,708-4404 Congue St.,"id, erat. Etiam vestibulum massa rutrum magna. Cras convallis convallis",2024-12-23 07:56:18,-63.9744749568,-135.1415192576
 2,true,182.26,https://youtube.com/en-us,36,green,Hedwig Branch,female,Dui Lectus Incorporated,nullam.velit@hotmail.net,1-524-161-5927,527-6989 Duis Rd.,justo eu arcu. Morbi sit amet massa. Quisque porttitor eros,2025-10-02 07:47:15,-4.7844972544,165.0524386304
 3,false,106.06,http://bbc.co.uk/fr,27,orange,Lawrence Gallagher,male,Justo Faucibus Institute,in.molestie.tortor@outlook.net,(290) 711-1549,Ap #950-9682 Nibh. Av.,Quisque ornare tortor at risus. Nunc ac sem ut dolor,2023-12-27 00:33:09,79.2979535872,127.8166955008
